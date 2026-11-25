@@ -192,15 +192,6 @@ Coming Soon™
 
 ---
 
-## 👨‍💻 Authors
-
-### Anthony Sleck
-GitHub: **@3lkgrove**
-
-### Nathan Hochhalter
-
----
-
 ## 📊 Project Status
 
 ```diff
@@ -217,6 +208,15 @@ GitHub: **@3lkgrove**
 ---
 
 ### 🔩 Built for high-speed printing, modular experimentation, and entirely too many future upgrades.
+
+---
+
+## 👨‍💻 Authors
+
+### Anthony Sleck
+GitHub: **@3lkgrove**
+
+### Nathan Hochhalter
 
 ---
 
