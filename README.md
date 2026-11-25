@@ -267,7 +267,7 @@ GitHub: **[@3lkgrove](https://github.com/3lkgrove)**
 
 ## 👤 Nathan Hochhalter
 
-GitHub: *(Coming Soon)*
+GitHub: **[@nhoch1535](https://github.com/nhoch1535)**
 
 ---
 
