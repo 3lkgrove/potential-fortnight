@@ -16,6 +16,10 @@ A scratch-built compact CoreXY 3D printer inspired by Voron architecture, featur
 
 ## ⚠️ Project Status
 
+```diff
++ ACTIVE DEVELOPMENT
+```
+
 > **Official project name is currently TBD.**
 >
 > Mechanical architecture, enclosure design, and tool-changing systems are actively being developed and refined.
@@ -191,12 +195,6 @@ Coming Soon™
 - [ ] Source file publication
 
 ---
-
-## 📊 Project Status
-
-```diff
-+ ACTIVE DEVELOPMENT
-```
 
 ### Current Focus Areas
 
