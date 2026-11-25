@@ -1,9 +1,5 @@
 # Compact CoreXY Multi-Tool 3D Printer
 
-![Status](https://img.shields.io/badge/Status-In%20Design%20%2F%20Prototyping-orange?style=for-the-badge)
-![Kinematics](https://img.shields.io/badge/Kinematics-CoreXY%20%2B%20Triple--Z-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-GPLv3-brightgreen?style=for-the-badge)
-
 > **Note:** Official project name is currently TBD while the mechanical and CAD architecture is finalized.
 
 ---
@@ -41,8 +37,8 @@ A scratch-built, Voron-inspired small-form-factor 3D printer engineered around a
 ## Repository Structure *(Planned)*
 
 ```text
-├── CAD/                # Onshape exports, STEP assemblies, and reference models
-├── STLs/               # Printable structural brackets, side-pack shrouds, and tool docks
+├── CAD/                # STEP files, and reference models
+├── STLs/               # Printable component files
 ├── Docs/               # Wiring diagrams, DIN-rail layout guides, and BOM
 ├── LICENSE             # GNU General Public License v3.0
 └── README.md           # Project overview and current build specifications
@@ -51,10 +47,16 @@ A scratch-built, Voron-inspired small-form-factor 3D printer engineered around a
 
 ---
 
-## Author & Contact
+## Authors & Contact
 
-- **Author:** Anthony Sleck ([@3lkgrove](https://github.com/3lkgrove))
-- **Project Status:** Active Development (November 2026)
+This project is maintained by:
+
+- **Anthony Sleck** ([3lkgrove](https://github.com/3lkgrove))
+- **Nathan Hochhalter**
+
+Project Status:** Active Development (November 2026)
+
+We appreciate all contributions and feedback from the community.
 
 ---
 
