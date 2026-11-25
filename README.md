@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/Status-In%20Design%20%2F%20Prototyping-orange?style=for-the-badge)
 ![Kinematics](https://img.shields.io/badge/Kinematics-CoreXY%20%2B%20Triple--Z-blue?style=for-the-badge)
-![Controller](https://img.shields.io/badge/Mainboard-BTT%20Manta%20%2B%20CB1-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GPLv3-brightgreen?style=for-the-badge)
 
 > **Note:** Official project name is currently TBD while the mechanical and CAD architecture is finalized.
@@ -47,3 +46,20 @@ A scratch-built, Voron-inspired small-form-factor 3D printer engineered around a
 ├── Docs/               # Wiring diagrams, DIN-rail layout guides, and BOM
 ├── LICENSE             # GNU General Public License v3.0
 └── README.md           # Project overview and current build specifications
+
+```
+
+---
+
+## Author & Contact
+
+- **Author:** Anthony Sleck ([@3lkgrove](https://github.com/3lkgrove))
+- **Project Status:** Active Development (November 2026)
+
+---
+
+## Licensing
+
+This project is licensed under the terms of the **GNU General Public License v3.0** (GPL-3.0). The full text of the license can be found in the [LICENSE](LICENSE) file in the root directory of this repository.
+
+Copyright (c) 2026 [@3lkgrove](https://www.github.com/3lkgrove)
