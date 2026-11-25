@@ -2,6 +2,8 @@
 
 ### 🔧 Voron-Inspired Tool-Changing CoreXY Platform
 
+### 🔩 Built for high-speed printing, modular experimentation, and entirely too many future upgrades.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Development-10B981?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-GPL--3.0-2563EB?style=for-the-badge">
@@ -123,15 +125,19 @@ without requiring the physical size of large-format tool-changing machines.
 ├── CAD/
 │   ├── STEP Files
 │   └── Reference Models
-│
-├── STLs/
-│   └── Printable Components
-│
-├── Docs/
+|
+├── Images/
+|
+├── Manuals/
 │   ├── Wiring Diagrams
 │   ├── DIN Rail Layouts
 │   ├── Assembly Documentation
 │   └── BOM
+│
+├── STLs/
+│   └── Printable Components
+│
+├── Usermods/
 │
 ├── LICENSE
 └── README.md
@@ -205,7 +211,24 @@ Coming Soon™
 
 ---
 
-### 🔩 Built for high-speed printing, modular experimentation, and entirely too many future upgrades.
+### Thanks
+
+- CAD Finalization
+- Tool Changer Development
+- Side Pack Layout Optimization
+- Documentation Creation
+
+---
+
+## Credits & Acknowledgments
+
+* **[Voron Design](https://vorondesign.com):** Huge thanks to the VORON Design team and community contributors for their open-source 3D printer designs and documentation. 
+* **Original Repository:** Based on/inspired by `Voron Trident` (e.g., [Voron-2](https://github.com/VoronDesign/Voron-Trident), licensed under **GPL-3.0**.
+
+*Disclaimer: This is an independent community project and is not affiliated with, endorsed by, or supported by the VORON Design team.*
+
+
+---
 
 ---
 
